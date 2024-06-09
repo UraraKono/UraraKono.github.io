@@ -33,10 +33,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: projects
-    content:
-      title: Projects
-      username: admin
+  # - block: projects
+  #   content:
+  #     title: Projects
+  #     username: admin
     # design:
     #   columns: '1'
     #   view: compact
