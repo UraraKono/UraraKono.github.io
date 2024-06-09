@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Urara Kono (河野 麗)
+title: Urara Kono （河野 麗）
 
 # Name pronunciation (optional)
 name_pronunciation: 
