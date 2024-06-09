@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 河野 麗
+title: Urara Kono (河野 麗)
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -9,15 +9,15 @@ name_pronunciation:
 first_name: Urara
 last_name: Kono
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Electrical Engineering Master Student @ UPenn
+role: Electrical Engineering Master Student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,6 +34,8 @@ profiles:
     url: https://github.com/UraraKono
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/urara-kono
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=WnSpEecAAAAJ&hl=ja&oi=ao
 
 education:
   - area: M.S.E. in Electrical Engineering, 2024 (expected)
@@ -81,6 +83,28 @@ work:
       Responsibilities include:
       - Derived the time-optimal paths of multi-agents docking robots under flow.
       - Simulated in Python and validated the method in experiments with micro autonomous surface vehicles using OptiTrack and ROS.
+
+# Projects
+sections:
+  # A section to display blog posts
+  - block: collection
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      # Display content from the `content/post/` folder
+      filters:
+        folders:
+          - post
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: compact
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -161,4 +185,4 @@ languages:
 I am currently a master student in Electrical Engineer at University of Pennsylvania.
 I am primarily working on motion planning of mobile robots.
 
-Previously, I obtained my Bachelors from the University of Tokyo majoring in Electrical and Electronic Engineering. I enjoy both hardware and software of robots!
+Previously, I obtained my Bachelors from the University of Tokyo majoring in Electrical and Electronic Engineering. I love both hardware and software!
