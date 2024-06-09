@@ -68,16 +68,15 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-05-01
-    date_end: 2023-09-31
+    date_end: 2023-09-30
     summary: |
-      Responsibilities include:
-      - Simulated the reachability of a robotic arm for collision avoidance in MATLAB.
+      Simulated the reachability of a robotic arm for collision avoidance in MATLAB.
   - position: Robotics Researcher
     company_name: Scalable Autonomous Robots Lab
     company_url: ''
     company_logo: ''
     date_start: 2021-07-01
-    date_end: 2023-04-31
+    date_end: 2023-04-30
     summary: |
       Responsibilities include:
       - Derived the time-optimal paths of multi-agents docking robots under flow.
