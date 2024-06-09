@@ -30,14 +30,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:urara27.k@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/UraraKono
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/urara-kono
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
 
 education:
   - area: M.S.E. in Electrical Engineering, 2024 (expected)
@@ -45,24 +41,9 @@ education:
     date_start: 2021-07-01
     date_end: 2024-08-31
     summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
       GPA: 3.87/4.0
 
       Courses included: Linear Systems Theory, Elements of Probability Theory, Machine Learning, Advanced Robotics, Control and Optimization with Applications in Robotics, Principles of Deep Learning, Learning in Robotics, Computer Systems Programming
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Engineering in Electrical and Electronic Engineering
     institution: The University of Tokyo
     date_start: 2017-04-01
