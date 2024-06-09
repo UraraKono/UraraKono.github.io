@@ -57,7 +57,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
-    date_end: Present
+    date_end: 2024-08-31
     summary: |
       Responsibilities include:
       - Set up a wheeled mobile robot platform by mounting Nvidia Jetson, RealSense, GNSS, 3D LiDAR, and wheel encoders onto a RC car.
