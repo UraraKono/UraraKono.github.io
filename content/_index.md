@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: yokonaga-robot.jpeg
+        filename: yokonaga-robot-1.jpeg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
