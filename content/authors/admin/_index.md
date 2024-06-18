@@ -36,6 +36,9 @@ profiles:
     url: https://www.linkedin.com/in/urara-kono
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=WnSpEecAAAAJ&hl=ja&oi=ao
+  - icon: "custom/address-card-regular"
+    url: https://docs.google.com/presentation/d/1uVnFp6oDShGYvtADFFMKFhDubL-Qavvbn0Gqaq1P4bk/edit?usp=sharing
+
 
 education:
   - area: M.S.E. in Electrical Engineering, 2024 (expected)
